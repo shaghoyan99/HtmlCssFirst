@@ -1,0 +1,239 @@
+body {
+    background-image: url("../img/b_coffee.jpg");
+    background-size: cover;
+    margin: -3px
+}
+
+.main {
+    width: 1000px;
+    height: 880px;
+    border: 1px #000000 solid;
+    margin: 0 auto;
+    opacity: .8;
+    background-repeat: no-repeat;
+
+}
+
+.topImage {
+    width: 100%;
+    height: 20px;
+    background-image: url("../img/top_line.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px dotted;
+
+}
+
+.menu {
+    height: 51px;
+    width: auto;
+    text-align: center;
+    margin-left: -100px;
+}
+
+.menu ul {
+    float: left;
+    list-style-type: none;
+    margin-left: 111px;
+    margin-bottom: -1px;
+
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu ul li a:hover {
+    color: rebeccapurple;
+}
+
+.all {
+    width: 100%;
+    height: 252px;
+    border: 1px dotted;
+}
+
+.contentRight {
+    width: 68%;
+    float: left;
+    padding: 5px;
+}
+
+.contentLeft {
+    padding: 5px;
+    width: 25%;
+    float: left;
+
+}
+
+.articleImg {
+    text-align: center;
+}
+
+.article p {
+    text-align: justify;
+}
+
+.footer {
+    width: 100%;
+    /*text-align: center;*/
+    padding: 5px;
+    margin-block-start: 4px;
+}
+
+.contentLeft ul {
+    list-style-type: circle;
+}
+
+.contentLeft ul li {
+    margin-bottom: 20px;
+}
+
+.homeImg {
+    background-image: url("../img/btn_1_over.png");
+    background-size: cover;
+    width: 170px;
+}
+
+.logoStyle {
+    text-align: center;
+}
+
+.nkar {
+    text-align: center;
+}
+
+.size {
+    width: 1000px;
+    height: 297px;
+    border: 1px dotted;
+}
+
+/*.TextStyle{*/
+/*    width: 30%;*/
+/*    height: 235px;*/
+/*    margin-left: 50px;*/
+/*    text-align: justify;*/
+/*}*/
+.text1 {
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 200px; /* Ширина слоя */
+    height: 200px;
+    margin-left: 79px;
+    text-align: left;
+    margin-block-start: -10px
+
+}
+
+.text2 {
+    padding: 5px; /* Поля вокруг текста */
+    width: 200px; /* Ширина слоя */
+    height: 200px;
+    float: left; /* Обтекание по правому краю */
+    margin-left: 100px;
+    text-align: left;
+    margin-block-start: -10px
+}
+
+.text3 {
+    padding: 5px; /* Поля вокруг текста */
+    width: 200px; /* Ширина слоя */
+    height: 200px;
+    float: left; /* Обтекание по правому краю */
+    margin-left: 100px;
+    margin-block-start: -10px
+}
+
+.clear {
+    clear: left; /* Отмена обтекания */
+}
+
+.contenttable {
+    height: 165px;
+    width: 310px;
+    margin-left: -48px;
+}
+
+.liStyle {
+    list-style-type: none;
+}
+
+.image {
+    height: 45px;;
+}
+
+.divImgSize {
+    width: 100%;
+    height: 222px;
+}
+
+.imgSize  {
+    width: 100%;;
+    height: 80px;
+    margin-block-start: 207px;
+}
+
+.pStyle {
+    text-decoration: none;
+    color: black;
+    /*margin-bottom: 10px;*/
+    margin: 6px;
+}
+
+.pStyle a {
+    text-decoration: none;
+    color: black;
+}
+.pStyle a:hover {
+    color: rebeccapurple;
+}
+
+.imgSyayl1 {
+    margin-left: 269px;
+    margin-block-start: 4px;
+}
+
+.allAbout {
+    width: 100%;
+    height: 300px;
+    border: 1px dotted;
+}
+
+.text2about {
+    padding: 5px; /* Поля вокруг текста */
+    width: 510px; /* Ширина слоя */
+    height: 220px;
+    float: left; /* Обтекание по правому краю */
+    margin-left: 100px;
+    text-align: left;
+    margin-block-start: -10px
+}
+.main1{
+    width: 1000px;
+    height: 880px;
+    border: 1px #000000 solid;
+    margin: 0 auto;
+    opacity: .8;
+    background-repeat: no-repeat;
+}
+.footer1{
+    width: 100%;
+    padding: 5px;
+    margin-left: 460px;
+    margin-block-start: 161px
+}
+.main2 {
+    width: 1000px;
+    height: 920px;
+    border: 1px #000000 solid;
+    margin: 0 auto;
+    opacity: .8;
+    background-repeat: no-repeat;
+}
+.all1 {
+    width: 100%;
+    height: 295px;
+    border: 1px dotted;
+}
